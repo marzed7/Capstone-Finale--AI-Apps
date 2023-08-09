@@ -34,6 +34,6 @@ For a detailed on the project application, visit our project portfolio [https://
 
 ## Demo
 
-Unlock the future of note-taking with AI-MindJot. Experience the power of artificial intelligence in transforming your learning journey. Visit our [live demo](https://tryapppy-ty2fravozeunfxonlftdmq.streamlit.app/) to see AI-MindJot in action!
+Unlock the future of note-taking with AI-MindJot. Experience the power of artificial intelligence in transforming your learning journey. Visit our [apps_demo](https://tryapppy-ty2fravozeunfxonlftdmq.streamlit.app/) to see AI-MindJot in action!
 
 
